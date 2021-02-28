@@ -38,7 +38,7 @@
     "test.watch": "yarn test --watch"
   },
   "dependencies": {
-    "@stoplight/ordered-object-literal": "^1.0.1",
+    "@stoplight/ordered-object-literal": "hopasaurus/ordered-object-literal",
     "@stoplight/types": "^11.9.0",
     "jsonc-parser": "~2.2.1",
     "lodash": "^4.17.15",
